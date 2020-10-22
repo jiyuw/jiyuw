@@ -39,9 +39,9 @@ Skills & Tools
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=Amazon_AWS)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat&logo=Microsoft_Azure)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=Google_Cloud)
+![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=Amazon-AWS)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat&logo=Microsoft-Azure)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=Google-Cloud)
 
 - Stats & Machine Learning
 
