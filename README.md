@@ -14,9 +14,14 @@ I’m currently looking for a full-time position in the field of data science
 [![Computational Biologist](https://img.shields.io/badge/-Computational_Biologist-green)]()
 
 Skills & Tools
-- languages
+- Programming
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![R](https://img.shields.io/badge/-R-72CFF5?style=flat&logo=R)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+maybe ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
