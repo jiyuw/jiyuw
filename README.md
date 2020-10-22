@@ -1,9 +1,10 @@
 ### Jiyu Wang
 [![Linkedin Badge](https://img.shields.io/badge/-jiyuwang-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyw-jiyu-wang/)](https://www.linkedin.com/in/jyw-jiyu-wang/)
-[![UW Badge](https://img.shields.io/badge/-jiyuw@uw.edu-blueviolet?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:jiyuw@uw.edu)](mailto:jiyuw@uw.edu)
-[![Gmail Badge](https://img.shields.io/badge/-wangjiyu0826@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wangjiyu0826@gmail.com)](mailto:wangjiyu0826@gmail.com)
+[![UW Badge](https://img.shields.io/badge/-jiyuw@uw.edu-4b2e83?style=plastic&logo=Mail.Ru&logoColor=white&link=mailto:jiyuw@uw.edu)](mailto:jiyuw@uw.edu)
+[![Gmail Badge](https://img.shields.io/badge/-wangjiyu0826-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:wangjiyu0826@gmail.com)](mailto:wangjiyu0826@gmail.com)
 
 Currently a master student in the Data Science program in University of Washington
+
 With background in biochemistry research
 
 
