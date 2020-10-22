@@ -9,9 +9,9 @@ With background in biochemistry research
 
 I’m currently looking for a full-time position in the field of data science
 
-[![Data Scientist](https://img.shields.io/badge/-Data Scientist-orange?style=flat)]()
-[![Data Analyst](https://img.shields.io/badge/-Data Analyst-yellow?style=flat)]()
-[![Computational Biologist](https://img.shields.io/badge/-Computational Biologist-green?style=flat)]()
+[![Data Scientist](https://img.shields.io/badge/-Data Scientist-orange)]()
+[![Data Analyst](https://img.shields.io/badge/-Data Analyst-yellow)]()
+[![Computational Biologist](https://img.shields.io/badge/-Computational Biologist-green)]()
 
 
 
