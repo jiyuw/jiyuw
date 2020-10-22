@@ -7,9 +7,13 @@ Currently a master student in the Data Science program in University of Washingt
 
 With background in biochemistry research
 
-
-
 I’m currently looking for a full-time position in the field of data science
+[![Data Scientist](https://img.shields.io/badge/-Data Scientist-orange?style=flat)]()
+[![Data Analyst](https://img.shields.io/badge/-Data Analyst-yellow?style=flat)]()
+[![Computational Biologist](https://img.shields.io/badge/-Computational Biologist-green?style=flat)]()
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
