@@ -15,40 +15,46 @@ I’m currently looking for a full-time position in the field of data science
 
 Skills & Tools
 - Programming
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![R](https://img.shields.io/badge/-R-72CFF5?style=flat&logo=R)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-maybe ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)
+
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=black)
+![matplotlib](https://img.shields.io/badge/-matplotlib-FE7A16?style=flat)
+![statsmodels](https://img.shields.io/badge/-statsmodels-172B4D?style=flat)
+
+- Tools & Frameworks
+
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud)
+
+- Stats & Machine Learning
+![A/B testing](https://img.shields.io/badge/-A\/B_testing-000000?style=flat)
+![hypothesis testing](https://img.shields.io/badge/-hypothesis_testing-E62B1E?style=flat)
+
+![linear regression](https://img.shields.io/badge/-linear_regression-E62B1E?style=flat)
+![logistic regression](https://img.shields.io/badge/-logistic_regression-FA7D19?style=flat)
+![SVM](https://img.shields.io/badge/-SVM-FFE953?style=flat)
+![Random Forest](https://img.shields.io/badge/-random_forest-7EBD00?style=flat)
+![deep learning](https://img.shields.io/badge/-deep_learning-00A7B3?style=flat)
+![CNN](https://img.shields.io/badge/-CNN-0C6EFC?style=flat)
+![RNN](https://img.shields.io/badge/-RNN-6400AA?style=flat)
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
