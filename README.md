@@ -3,11 +3,11 @@
 [![UW Badge](https://img.shields.io/badge/-jiyuw@uw.edu-4b2e83?style=plastic&logo=Mail.Ru&logoColor=white&link=mailto:jiyuw@uw.edu)](mailto:jiyuw@uw.edu)
 [![Gmail Badge](https://img.shields.io/badge/-wangjiyu0826-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:wangjiyu0826@gmail.com)](mailto:wangjiyu0826@gmail.com)
 
-Currently a master student in the Data Science program in University of Washington
+Currently a master student in the **Data Science program** in University of Washington
 
 With background in biochemistry research
 
-I’m currently looking for a full-time position in the field of data science
+I’m currently looking for a **full-time position** in the field of data science
 
 [![Data Scientist](https://img.shields.io/badge/-Data_Scientist-orange)]()
 [![Data Analyst](https://img.shields.io/badge/-Data_Analyst-yellow)]()
@@ -23,8 +23,7 @@ Skills & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)
-
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=black)  
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=black)
