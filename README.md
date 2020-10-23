@@ -13,7 +13,7 @@ I’m currently looking for a **full-time position** in the field of data scienc
 [![Computational Biologist](https://img.shields.io/badge/-Computational_Biologist-green)]()
 
 #### Skills & Tools
-- Programming
+- Programming  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=white)
@@ -28,7 +28,7 @@ I’m currently looking for a **full-time position** in the field of data scienc
 ![matplotlib](https://img.shields.io/badge/-matplotlib-FE7A16?style=flat)
 ![statsmodels](https://img.shields.io/badge/-statsmodels-172B4D?style=flat)
 
-- Tools & Frameworks
+- Tools & Frameworks  
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
@@ -39,7 +39,7 @@ I’m currently looking for a **full-time position** in the field of data scienc
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white)
 
-- Stats & Machine Learning
+- Stats & Machine Learning  
 ![A/B testing](https://img.shields.io/badge/-A\/B_testing-000000?style=flat)
 ![hypothesis testing](https://img.shields.io/badge/-hypothesis_testing-E62B1E?style=flat)  
 ![linear regression](https://img.shields.io/badge/-linear_regression-E62B1E?style=flat)
