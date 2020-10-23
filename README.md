@@ -7,8 +7,7 @@ Currently a master student in the **Data Science program** in University of Wash
 
 With background in biochemistry research
 
-I’m currently looking for a **full-time position** in the field of data science
-
+I’m currently looking for a **full-time position** in the field of data science  
 [![Data Scientist](https://img.shields.io/badge/-Data_Scientist-orange)]()
 [![Data Analyst](https://img.shields.io/badge/-Data_Analyst-yellow)]()
 [![Computational Biologist](https://img.shields.io/badge/-Computational_Biologist-green)]()
@@ -45,8 +44,7 @@ Skills & Tools
 - Stats & Machine Learning
 
 ![A/B testing](https://img.shields.io/badge/-A\/B_testing-000000?style=flat)
-![hypothesis testing](https://img.shields.io/badge/-hypothesis_testing-E62B1E?style=flat)
-
+![hypothesis testing](https://img.shields.io/badge/-hypothesis_testing-E62B1E?style=flat)  
 ![linear regression](https://img.shields.io/badge/-linear_regression-E62B1E?style=flat)
 ![logistic regression](https://img.shields.io/badge/-logistic_regression-FA7D19?style=flat)
 ![SVM](https://img.shields.io/badge/-SVM-FFE953?style=flat)
